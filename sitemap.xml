@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://joebram.github.io/joebramall2021/about/</loc>
     <lastmod>2021-08-24T14:24:54+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://joebram.github.io/joebramall2021/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://joebram.github.io/joebramall2021/posts/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/service-design/</loc>
+    <loc>https://joebram.github.io/joebramall2021/tags/service-design/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://joebram.github.io/joebramall2021/tags/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/post04/</loc>
+    <loc>https://joebram.github.io/joebramall2021/posts/post04/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/stayingsane/</loc>
+    <loc>https://joebram.github.io/joebramall2021/posts/stayingsane/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/designmanchester/</loc>
+    <loc>https://joebram.github.io/joebramall2021/posts/designmanchester/</loc>
     <lastmod>2018-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/volunteering/</loc>
+    <loc>https://joebram.github.io/joebramall2021/tags/volunteering/</loc>
     <lastmod>2018-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/healthcare/</loc>
+    <loc>https://joebram.github.io/joebramall2021/tags/healthcare/</loc>
     <lastmod>2016-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/imperialsprint/</loc>
+    <loc>https://joebram.github.io/joebramall2021/posts/imperialsprint/</loc>
     <lastmod>2016-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://joebram.github.io/joebramall2021/categories/</loc>
   </url>
 </urlset>

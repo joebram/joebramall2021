@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>service design on Joe Bramall</title>
-    <link>http://example.org/tags/service-design/</link>
+    <link>https://joebram.github.io/joebramall2021/tags/service-design/</link>
     <description>Recent content in service design on Joe Bramall</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
-    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/service-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://joebram.github.io/joebramall2021/tags/service-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post 04</title>
-      <link>http://example.org/posts/post04/</link>
+      <link>https://joebram.github.io/joebramall2021/posts/post04/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/post04/</guid>
+      <guid>https://joebram.github.io/joebramall2021/posts/post04/</guid>
       <description>Post 01</description>
     </item>
     
     <item>
       <title>Design notes - staying sane in Service Design</title>
-      <link>http://example.org/posts/stayingsane/</link>
+      <link>https://joebram.github.io/joebramall2021/posts/stayingsane/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/stayingsane/</guid>
+      <guid>https://joebram.github.io/joebramall2021/posts/stayingsane/</guid>
       <description>Four hours into the bike ride my head starts to slot itself back together. Thoughts become clearer and everything begins to make sense again.
 The day before my head felt cloudy, I was exhausted, frustrated and grumpy. Subconsciously I was searching for space. The week before I was in facilitation mode, talking to teams and bringing people together. I was there to help them solve problems; a guide through a collaborative process.</description>
     </item>
     
     <item>
       <title>Design Manchester, Service Design Jam Days</title>
-      <link>http://example.org/posts/designmanchester/</link>
+      <link>https://joebram.github.io/joebramall2021/posts/designmanchester/</link>
       <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/designmanchester/</guid>
+      <guid>https://joebram.github.io/joebramall2021/posts/designmanchester/</guid>
       <description>I’m a big fan of Kathryn Grace website. She’s a champion of service design, helping to establish the North as a breeding ground for the discipline. Obviously I jumped at the opportunity to take part in a jam as part of Design Manchester.
 So what is service design anyway? Think of service design as user experience for life. It’s a way of looking at every interaction, touchpoint and challenge a person might encounter using our services.</description>
     </item>
     
     <item>
       <title>Service design sprint with Imperial College Healthcare</title>
-      <link>http://example.org/posts/imperialsprint/</link>
+      <link>https://joebram.github.io/joebramall2021/posts/imperialsprint/</link>
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/imperialsprint/</guid>
+      <guid>https://joebram.github.io/joebramall2021/posts/imperialsprint/</guid>
       <description>The Challenge Reduce the amount of time a patient spends in hospital during the discharge process and minimise the risks involved for patients beginning Warfarin treatment.
 The Team A 6 strong team of doctors, consultants, patients and designers.
 Key to our early success was the inclusion of a junior doctor whose intimate knowledge of Warfarin treatment immediately earned her Project Champion status.
